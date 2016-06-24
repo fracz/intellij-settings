@@ -1,0 +1,5 @@
+<keymap version="1" name="Wojtek Keymap" parent="$default">
+  <action id="QuickList.Wojtek's Quick list">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
+</keymap>
