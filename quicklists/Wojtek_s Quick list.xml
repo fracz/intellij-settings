@@ -1,0 +1,7 @@
+<list display="Wojtek's Quick list">
+  <action id="CompileCoffeeScript" />
+  <action id="CompileProject" />
+  <action id="FileChooser.Delete" />
+  <action id="CheckStyleCurrentFileAction" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+</list>

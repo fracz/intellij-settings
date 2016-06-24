@@ -1,0 +1,26 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.gson.internal" />
+    <EXCLUDED_PACKAGE NAME="com.jayway.jsonassert.impl.matcher" />
+    <EXCLUDED_PACKAGE NAME="com.sun.corba" />
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections.MappingChange" />
+    <EXCLUDED_PACKAGE NAME="java.rmi.server.ObjID" />
+    <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="net.sf.cglib.core.CollectionUtils" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.codec.binary.StringUtils" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang.StringUtils" />
+    <EXCLUDED_PACKAGE NAME="org.apache.lucene.util" />
+    <EXCLUDED_PACKAGE NAME="org.dozer.util" />
+    <EXCLUDED_PACKAGE NAME="org.eclipse.core" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.action.fieldstats.FieldStats.Date" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.gateway.AsyncShardFetch" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.index.mapper.MapperService" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.collection" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Assume" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.cglib.core.CollectionUtils" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.security.core.userdetails.User" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.util" />
+  </component>
+</application>

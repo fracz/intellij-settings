@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="verification-template-details" type="HTML" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
