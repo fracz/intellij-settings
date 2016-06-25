@@ -1,0 +1,20 @@
+<code_scheme name="Wojtek Code Style Scheme">
+  <option name="RIGHT_MARGIN" value="130" />
+  <option name="HTML_KEEP_BLANK_LINES" value="1" />
+  <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+  <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body" />
+  <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+  <codeStyleSettings language="CoffeeScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+  </codeStyleSettings>
+</code_scheme>
