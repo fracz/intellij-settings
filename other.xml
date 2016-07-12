@@ -74,7 +74,9 @@
     </gwt-sdk-list>
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="5.1.1" last-modified="1449177848000" />
+    </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="5.1.1" last-modified="1449177848000" />
