@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -17,8 +17,8 @@
       <mask>*.mxml</mask>
       <mask>*Spec.coffee</mask>
       <mask>*.gradle</mask>
-      <mask>*.coffee</mask>
       <mask>*.html</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
