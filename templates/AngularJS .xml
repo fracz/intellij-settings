@@ -3,7 +3,6 @@
     <variable name="eventName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="eventArgs" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JS_STATEMENT" value="true" />
       <option name="CoffeeScript" value="true" />
     </context>
   </template>
