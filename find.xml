@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[beforeafter_main] - ...\src\main\java\LetterScoreGiverRight.java'" />
-    <option name="defaultScopeName" value="File '[beforeafter_main] - ...\src\main\java\LetterScoreGiverRight.java'" />
-    <option name="SEARCH_SCOPE" value="File '[beforeafter_main] - ...\src\main\java\LetterScoreGiverRight.java'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
