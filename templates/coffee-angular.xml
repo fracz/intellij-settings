@@ -1,0 +1,17 @@
+<templateSet group="coffee-angular">
+  <template name="cl" value="console.log($END$);" description="console.log" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="comp" value="angular.module('ewida').component '$COMPONENT_NAME$',&#10;  templateUrl: '$PATH$$FILENAME$.html'&#10;  controller: class&#10;    constructor: () -&gt;&#10;&#10;    $onInit: =&gt;&#10;      $END$&#10;" description="New component" toReformat="true" toShortenFQNames="false">
+    <variable name="COMPONENT_NAME" expression="" defaultValue="decapitalize(camelCase(groovyScript(&quot;_1.replaceAll(\&quot;-\&quot;,\&quot;_\&quot;)&quot;, fileNameWithoutExtension())))" alwaysStopAt="false" />
+    <variable name="PATH" expression="" defaultValue="groovyScript(&quot;_editor.getVirtualFile().getPath().replace(_editor.getProject().getBaseDir().getPath(), \&quot;\&quot;).replace(_editor.getVirtualFile().getName(), \&quot;\&quot;).replace(\&quot;/src/EWIDA/Frontend/\&quot;, \&quot;\&quot;)&quot;)" alwaysStopAt="false" />
+    <variable name="FILENAME" expression="" defaultValue="groovyScript(&quot;_1.replaceAll(\&quot;_\&quot;,\&quot;-\&quot;)&quot;, snakeCase(decapitalize(COMPONENT_NAME))" alwaysStopAt="false" />
+    <context>
+      <option name="CoffeeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
