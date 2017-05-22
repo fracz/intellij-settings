@@ -14,10 +14,6 @@
       <mask>*.mxml</mask>
       <mask>*Spec.coffee</mask>
       <mask>*.gradle</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
@@ -30,6 +26,10 @@
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
