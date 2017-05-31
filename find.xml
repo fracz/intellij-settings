@@ -21,20 +21,20 @@
       <mask>*</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
-      <mask>*.co</mask>
       <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coff</mask>
+      <mask>*.cof</mask>
+      <mask>*.co</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
