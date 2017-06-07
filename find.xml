@@ -9,28 +9,31 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*Spec.coffee</mask>
-      <mask>*.gradle</mask>
-      <mask>*</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
-      <mask>*.cs</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
+      <mask>*.cs</mask>
       <mask>*.c</mask>
+      <mask>*.(co)</mask>
+      <mask>*.(cof)</mask>
+      <mask>*.(coff)</mask>
+      <mask>*.(coffee,)</mask>
+      <mask>*.(coffee)</mask>
+      <mask>*.(coffe)</mask>
+      <mask>*.(c)</mask>
+      <mask>*.()</mask>
+      <mask>*.{c</mask>
+      <mask>*.{co</mask>
+      <mask>*.{cof</mask>
+      <mask>*.{coff</mask>
+      <mask>*.{coffe</mask>
+      <mask>*.{coffee}</mask>
+      <mask>*.{coffee</mask>
+      <mask>*.{</mask>
+      <mask>*.</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
