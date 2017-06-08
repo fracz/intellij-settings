@@ -5,8 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
@@ -30,12 +30,13 @@
       <mask>*.{</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*.cs</mask>
     </recentFileMasks>
   </component>
 </application>
