@@ -24,8 +24,6 @@
       <mask>*.{coffee}</mask>
       <mask>*.{coffee</mask>
       <mask>*.{</mask>
-      <mask>*.c</mask>
-      <mask>*.co</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -33,11 +31,13 @@
       <mask>*.</mask>
       <mask>*c</mask>
       <mask>*</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*.cs</mask>
     </recentFileMasks>
   </component>
 </application>
