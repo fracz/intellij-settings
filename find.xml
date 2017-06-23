@@ -1,11 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*.cs" />
     <recentFileMasks>
       <mask>*.(co)</mask>
       <mask>*.(cof)</mask>
@@ -23,7 +25,6 @@
       <mask>*.{coffee}</mask>
       <mask>*.{coffee</mask>
       <mask>*.{</mask>
-      <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.html</mask>
@@ -37,6 +38,7 @@
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.cs</mask>
     </recentFileMasks>
   </component>
 </application>
