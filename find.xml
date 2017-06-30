@@ -23,19 +23,19 @@
       <mask>*.</mask>
       <mask>*c</mask>
       <mask>*</mask>
-      <mask>*.c</mask>
       <mask>*.co</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
       <mask>*sp.coffee</mask>
       <mask>*spa.coffee</mask>
       <mask>*spec.coffee</mask>
       <mask>*spc.coffee</mask>
       <mask>*sc.coffee</mask>
       <mask>*c.coffee</mask>
-      <mask>*.coffee</mask>
       <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
