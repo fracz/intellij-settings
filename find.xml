@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.{coffee</mask>
       <mask>*.{</mask>
@@ -12,10 +13,8 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*c</mask>
       <mask>*</mask>
-      <mask>*.co</mask>
       <mask>*sp.coffee</mask>
       <mask>*spa.coffee</mask>
       <mask>*spec.coffee</mask>
@@ -24,10 +23,6 @@
       <mask>*c.coffee</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>T</mask>
       <mask>Te</mask>
       <mask>Tes</mask>
@@ -36,6 +31,12 @@
       <mask>Test.c</mask>
       <mask>Test.cs</mask>
       <mask>*Test.cs</mask>
+      <mask>*.</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
