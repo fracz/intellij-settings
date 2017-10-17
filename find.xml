@@ -3,9 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ervice.coffee" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>Te</mask>
       <mask>Tes</mask>
@@ -31,12 +33,12 @@
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*s.coffee</mask>
       <mask>*ser.coffee</mask>
       <mask>*serv.coffee</mask>
       <mask>*service.coffee</mask>
       <mask>*ervice.coffee</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
