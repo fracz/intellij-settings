@@ -5,13 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*ervice.coffee" />
     <recentFileMasks>
-      <mask>*spec.coffee</mask>
-      <mask>*spc.coffee</mask>
-      <mask>*sc.coffee</mask>
-      <mask>*c.coffee</mask>
-      <mask>T</mask>
       <mask>Te</mask>
       <mask>Tes</mask>
       <mask>Test</mask>
@@ -37,6 +32,11 @@
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*s.coffee</mask>
+      <mask>*ser.coffee</mask>
+      <mask>*serv.coffee</mask>
+      <mask>*service.coffee</mask>
+      <mask>*ervice.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
